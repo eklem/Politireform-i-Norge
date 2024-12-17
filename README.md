@@ -1,4 +1,4 @@
-# Politireform-i-Norge
+# Politireform i Norge
 
 Politiet virker ute av kontroll i Norge. Det bør vi prøve å endre på. Dette er et sted for å samle ideer til hva endringene bør være, hvorfor (eksempler på uønsket adferd og beskrivelse) og hvordan få de politiske partiene til å gjøre dette.
 
