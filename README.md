@@ -26,4 +26,4 @@ Hvordan få til ønskede endringer? Hvordan fremme saker for dette i partienes l
 
 ## Teknisk
 
-For å komme med innspill eller diskutere andres innspill, så oppretter du en sak (issue). Du må være registrert GitHub-bruker. Anonyme brukere er fint. Vi rydder og lager sider av det etterhvert som vi er enige.
+For å komme med innspill eller diskutere andres innspill, så [oppretter du en sak (issue)](https://github.com/eklem/Politireform-i-Norge/issues/new/choose). Du må være registrert GitHub-bruker. Anonyme brukere er fint. Vi rydder og lager sider av det etterhvert som vi er enige.
