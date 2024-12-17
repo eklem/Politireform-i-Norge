@@ -27,3 +27,9 @@ Hvordan få til ønskede endringer? Hvordan fremme saker for dette i partienes l
 ## Hvordan delta?
 
 For å komme med innspill eller diskutere andres innspill, så [oppretter du en sak (issue)](https://github.com/eklem/Politireform-i-Norge/issues/new/choose). Du må være registrert GitHub-bruker. Anonyme brukere er fint. Vi rydder og lager sider av det etterhvert som vi er enige.
+
+For å se eksisterende innspill og diskusjoner kan du trykke [issues](https://github.com/eklem/Politireform-i-Norge/issues) i headeren eller linken her.
+
+### Lisens
+
+Foreløpig [MIT-lisens](LICENSE). Du kan gjøre som du vil med innholdet og fortelle hvor du tok det fra.
