@@ -32,4 +32,4 @@ For å se eksisterende innspill og diskusjoner kan du trykke [issues](https://gi
 
 ### Lisens
 
-Foreløpig [MIT-lisens](LICENSE). Du kan gjøre som du vil med innholdet og fortelle hvor du tok det fra.
+Foreløpig [Creative Commons Zero - CC0 1.0 Universal](LICENSE). Du kan gjøre som du vil med innholdet.
