@@ -34,4 +34,4 @@ For å se eksisterende innspill og diskusjoner kan du trykke [issues](https://gi
 
 ### Lisens
 
-Foreløpig [Creative Commons Zero - CC0 1.0 Universal](LICENSE). Du kan gjøre som du vil med innholdet.
+Foreløpig [Creative Commons Zero - CC0 1.0 Universal](LICENSE). Du kan gjøre som du vil med innholdet. Kopiere, endre, tilpasse til ditt parti eller ditt behov.
