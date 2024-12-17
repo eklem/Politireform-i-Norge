@@ -8,6 +8,8 @@ Sitat fra [NRK](https://www.nrk.no/buskerud/politimann-frifunnet-i-hoyesterett-e
 
 > [I dommen står det at Høyesteretts flertall](https://www.domstol.no/no/hoyesterett/avgjorelser/avgjorelser-2024/hoyesterett---straff/HR-2024-2316-A/) har kommet til at mye taler for at bruken av makt var både «nødvendig» og «forsvarlig» etter politiloven.
 
+[Bluesky-politireform-tråd](https://bsky.app/profile/klem.social/post/3ldir255kqs2p) om samme tema, hvor det går ann å hente innspill, linker og inspirasjon.
+
 ## Innhold
 
 ### 1. Reformens innhold.
