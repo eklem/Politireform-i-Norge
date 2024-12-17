@@ -24,6 +24,6 @@ Linker og beskrivelse av alle saker hvor politiet f.eks. er voldelige, bedriver 
 Hvordan få til ønskede endringer? Hvordan fremme saker for dette i partienes lansmøter mm? Hvordan få de med? Hvordan få de til å fremme og stemme for en ryddig politireform?
 
 
-## Teknisk
+## Hvordan delta?
 
 For å komme med innspill eller diskutere andres innspill, så [oppretter du en sak (issue)](https://github.com/eklem/Politireform-i-Norge/issues/new/choose). Du må være registrert GitHub-bruker. Anonyme brukere er fint. Vi rydder og lager sider av det etterhvert som vi er enige.
